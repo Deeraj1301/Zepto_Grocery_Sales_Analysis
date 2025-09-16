@@ -33,15 +33,15 @@ View Statement ⬇️
 
 <summary>
 View Stratergy ⬇️
-</summary>
+</summary> <br>
 
-- Understand key KPIs: Overall Sales, Units, Seller Count
-- Build hierarchical view: State → City → Product → Product Details
-- Enable drilldowns: from overview → product listings → product-level insights
-- Design dashboards with clear filters and interactions
+- Understand key KPIs: Total Sales, Average Sales, Number of Items Sold, Average Rating
+- Build hierarchical view: Outlet Type → Outlet Size → Location Tier → Item Category → Product Details
+- Enable Filters: From overall outlet performance → category-level sales → product-level insights
+- Design dashboards with clear slicers/filters for Outlet Type, Location Tier, Outlet Size, Item Category, and Fat Content
 
 ### S - Situation
-Amazon’s apparel sales data was scattered, making it hard for stakeholders to track performance across sellers, cities, and products. A unified, interactive view was needed for better decision-making.
+Zepto, a quick-commerce grocery delivery company, manages millions in sales across multiple outlets, item categories, and city tiers. However, leadership struggled to track outlet performance, product sales trends, establishment growth, and customer satisfaction due to scattered and unstructured data.
 
 ### T - Task
 - The main objective was to design a centralized BI solution that:
