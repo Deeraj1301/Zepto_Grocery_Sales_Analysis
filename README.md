@@ -144,11 +144,7 @@ View ETL Process ⬇️
 
      - Ensured no duplicate or empty records remained
 
-6. Null and Zero Handling 
-  
-    - Applied up/down fill in Power BI to handle missing or zero values in the Price of Product columns.
-
-7. Final Output
+6. Final Output
 
     - Produced a clean, structured dataset with standardized categories, corrected types, and complete records ready for modeling in Power BI
 
