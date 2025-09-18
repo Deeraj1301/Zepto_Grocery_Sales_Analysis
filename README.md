@@ -2,9 +2,8 @@
 
 [![View Dashboard](https://img.shields.io/badge/View%20Dashboard-black.svg?style=for-the-badge&logo=Codeforces&logoColor=gold&labelColor=%black&color=%23000000)](https://app.powerbi.com/view?r=eyJrIjoiNjkzY2VkNmQtOTk4ZS00MzdlLWE3ZGMtZTM2NzMwNDYyMGJkIiwidCI6IjU3ZmJiOTI1LWVmMWEtNDAzOC1hMGJmLTVlOTM1YTMzYzk2MiJ9)
 
-  <a href="https://datascienceportfol.io/deerajS" target="_blank">
-  <img width="300" height="250" alt="Image" src="https://github.com/user-attachments/assets/e5c51953-e920-4b31-8c91-cf8227ad7185" />
-  </a>
+<a href="https://datascienceportfol.io/deerajS" target="_blank"><img width="167" height="200" alt="Image" src="https://github.com/user-attachments/assets/3badf33e-c36c-4088-bb3f-b0ed49e15fac" />
+</a>
 
 ## Table of Contents
   1. [Problem Statement](#problem-statement)
